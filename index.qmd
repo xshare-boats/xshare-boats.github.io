@@ -8,6 +8,9 @@ css: index.css
 
 {{< include hero.qmd >}}
 
+::: {.wide-banner}
+
+::: {.wide-banner-text}
 
 ::: {.callout-tip}
 
@@ -15,6 +18,9 @@ css: index.css
 
 Season opening price! Secure the X Shore 1 through an exclusive, all-inclusive club membership at x-share.de at a discounted price from 01.05.2026 to 31.12.2026. Memberships are highly limited and offer unlimited usage for the rest of the year.
 
+:::
+
+:::
 :::
 
 {{< include contact.qmd >}}
