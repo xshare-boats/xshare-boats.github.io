@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "welcome.html",
-    "href": "welcome.html",
-    "title": "x-share",
-    "section": "",
-    "text": "Feel the buzz. Ride X Shore."
-  },
-  {
-    "objectID": "hero.html",
-    "href": "hero.html",
-    "title": "x-share",
-    "section": "",
-    "text": "Feel the buzz. Ride X Shore.\n\nWe share E power 170 hp/125 kw.\nWe share passion in E boats.\nWe love Roermond."
-  },
-  {
-    "objectID": "content/news/news.html",
-    "href": "content/news/news.html",
-    "title": "x-share",
-    "section": "",
-    "text": "What? X Shore\n\n\n\n\n\n\n\nWhere? Roermond\n\n\n\n\n\n\n\nWho? Contact\n\n\n\n\n\nPrevoius\n\n\n\nNext"
-  },
-  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "x-share",
@@ -35,11 +14,25 @@
     "text": "Just send us an email with the following information:\n\nFirst Name\nLast Name\nPhone number (optional)\nDo you own a boat?\nDo you have a boating license?\nPreferred date and time for test ride"
   },
   {
-    "objectID": "who.html",
-    "href": "who.html",
-    "title": "Bernward Altmeyer",
+    "objectID": "carousel.html",
+    "href": "carousel.html",
+    "title": "X Shore go vroom vroom … 🚤🌊",
     "section": "",
-    "text": "Ambassador X Shore—Dusseldorf"
+    "text": "What? X Shore\n\n\n\n\n\n\n\nWhere? Roermond\n\n\n\n\n\n\n\nWho? Contact\n\n\n\n\n\nPrevoius\n\n\n\nNext\n\n\n\n\n\n\nX Shore go vroom vroom … 🚤🌊\nX Shore boats for rental."
+  },
+  {
+    "objectID": "content/news/news.html",
+    "href": "content/news/news.html",
+    "title": "x-share",
+    "section": "",
+    "text": "What? X Shore\n\n\n\n\n\n\n\nWhere? Roermond\n\n\n\n\n\n\n\nWho? Contact\n\n\n\n\n\nPrevoius\n\n\n\nNext"
+  },
+  {
+    "objectID": "welcome.html",
+    "href": "welcome.html",
+    "title": "x-share",
+    "section": "",
+    "text": "Feel the buzz. Ride X Shore."
   },
   {
     "objectID": "index.html#test-me",
@@ -52,10 +45,17 @@
     ]
   },
   {
-    "objectID": "carousel.html",
-    "href": "carousel.html",
-    "title": "X Shore go vroom vroom … 🚤🌊",
+    "objectID": "hero.html",
+    "href": "hero.html",
+    "title": "x-share",
     "section": "",
-    "text": "What? X Shore\n\n\n\n\n\n\n\nWhere? Roermond\n\n\n\n\n\n\n\nWho? Contact\n\n\n\n\n\nPrevoius\n\n\n\nNext\n\n\n\n\n\n\nX Shore go vroom vroom … 🚤🌊\nX Shore boats for rental."
+    "text": "Feel the buzz. Ride X Shore.\n\nWe share E power 170 hp/125 kw.\nWe share passion in E boats.\nWe love Roermond."
+  },
+  {
+    "objectID": "who.html",
+    "href": "who.html",
+    "title": "Bernward Altmeyer",
+    "section": "",
+    "text": "Ambassador X Shore—Dusseldorf"
   }
 ]
